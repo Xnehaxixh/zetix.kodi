@@ -1,0 +1,3 @@
+[submodule "repo/plugin.video.jiotv"]
+	path = repo/plugin.video.jiotv
+	url = https://github.com/Xnehaxixh/plugin.video.jiotv
